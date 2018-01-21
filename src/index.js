@@ -5,7 +5,7 @@ import {
     Text,
     Touchable,
     StyleSheet,
-} from '@likethemammal/react-primitives'
+} from 'react-primitives'
 
 const styles = StyleSheet.create({
     example: {

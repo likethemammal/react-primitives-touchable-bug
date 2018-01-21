@@ -3,7 +3,9 @@ likethemammal/react-primitives-touchable-bug
 
 Reproduction of a bug with Touchable in react-primitives
 
-![Screenshot of the bug](https://i.imgur.com/4U5vlj6.png)
+**This is the branch for 15.4.2, theres also a branch for React 16**
+
+![Screenshot of the bug](https://i.imgur.com/kfqXAdz.png)
 
 ## Installation
 
