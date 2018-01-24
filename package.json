@@ -30,7 +30,7 @@
   ],
   "dependencies": {},
   "devDependencies": {
-    "@likethemammal/react-primitives": "^0.4.5",
+    "@likethemammal/react-primitives_react-native-web_latest": "^0.5.1",
     "babel-core": "^6.24.1",
     "babel-loader": "^7.0.0",
     "babel-preset-es2015": "^6.24.1",
