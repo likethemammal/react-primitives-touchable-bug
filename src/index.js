@@ -3,9 +3,12 @@ import React, { Component } from 'react'
 import {
     View,
     Text,
-    Touchable,
     StyleSheet,
 } from '@likethemammal/react-primitives'
+
+import {
+    TouchableWithoutFeedback,
+} from 'react-native-web'
 
 const styles = StyleSheet.create({
     example: {
@@ -20,7 +23,7 @@ class App extends Component {
         const { on } = this.props
 
         return <div>
-            <Touchable
+            <TouchableWithoutFeedback
                 onPress={() => console.log('pressed')}
             >
                 <View
@@ -30,7 +33,7 @@ class App extends Component {
                         {'Some example text'}
                     </Text>
                 </View>
-            </Touchable>
+            </TouchableWithoutFeedback>
         </div>
     }
 }
