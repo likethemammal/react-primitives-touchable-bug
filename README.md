@@ -3,7 +3,7 @@ likethemammal/react-primitives-touchable-bug
 
 Reproduction of a bug with Touchable in react-primitives
 
-![Screenshot of the bug](https://i.imgur.com/4U5vlj6.png)
+![Screenshot of the bug](https://i.imgur.com/dkiquaV.png)
 
 ## Installation
 
