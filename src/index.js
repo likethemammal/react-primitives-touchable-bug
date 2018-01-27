@@ -9,7 +9,7 @@ import {
 
 const styles = StyleSheet.create({
     example: {
-        background: 'lightgreen',
+        backgroundColor: 'lightgreen',
         padding: 5,
     }
 })
